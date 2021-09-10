@@ -40,6 +40,14 @@ modules=(
 	"https://github.com/lfrsales/onboarding-forms/releases/latest/download/com.liferay.onboarding.form.web.jar"
 	"https://github.com/lfrsales/site-se-site-initializer/releases/latest/download/com.liferay.site.se.site.initializer-1.0.0.jar"
 	"https://github.com/lfrsales/toggle-control-menu-personal-menu-entry/releases/latest/download/com.liferay.users.admin.web.internal.product.navigation.personal.menu.toggle.control.menu-1.0.0.jar"
+	"https://github.com/olafk/demo-checklist-web/releases/download/1.0.7/com.liferay.sales.checklist-1.0.7.jar"
+	"https://github.com/olafk/liferay-documentation-workspace/releases/download/3.0/de.olafkock.liferay.documentation.api-3.0.0.jar"
+	"https://github.com/olafk/liferay-documentation-workspace/releases/download/3.0/de.olafkock.liferay.documentation.control.menu-3.0.0.jar"
+	"https://github.com/olafk/liferay-documentation-workspace/releases/download/3.0/de.olafkock.liferay.documentation.resolver.expando-3.0.0.jar"
+	"https://github.com/olafk/liferay-documentation-workspace/releases/download/3.0/de.olafkock.liferay.documentation.themecontributor-3.0.0.jar"
+	"https://github.com/olafk/liferay-documentation-workspace/releases/download/3.0/documentation-controlpanel-3.0.0.jar"
+	"https://github.com/olafk/liferay-documentation-workspace/releases/download/3.0/documentation.controlpanel.authoring.api-3.0.0.jar"
+	"https://github.com/olafk/LFRoboticsDemoLogin/releases/download/1.0.1/com.liferay.lfrobotics.demologin-1.0.1.jar"
 )
 
 cd $TMPDIR
